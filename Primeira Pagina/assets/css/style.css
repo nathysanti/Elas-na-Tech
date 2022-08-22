@@ -24,13 +24,14 @@ nav a{
     color: rgb(187, 187, 187);
     text-decoration: none;
 }
+nav .btn_destaque{
+    margin-left: 25px;
+}
 .btn_destaque{
     background-color: rgb(255, 77, 77);
     color: white;
     padding: 10px 40px;
     border-radius: 3px;
-    margin-left: 25px;
-    font-size: 12px;
     text-decoration: none;
 }
 
@@ -49,4 +50,17 @@ nav a{
     font-size: 24px;
     padding-bottom: 30px;
     line-height: 120%;
+}
+.sec02{
+    border-bottom: 1px solid rgb(204, 204, 204);
+}
+.sec02 p{
+    font-size: 30px;
+    text-align: center;
+}
+.sec02 img{
+    width: 100%;
+    max-width: 960px;
+    margin-bottom: 50px;
+    margin-top: 50px;
 }
