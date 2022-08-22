@@ -14,3 +14,17 @@ body{
     width: 100%;
     margin: 0 auto;
 }
+nav{
+    color: rgb(187, 187, 187);
+    font-size: 12px;
+}
+nav a{
+    color: rgb(187, 187, 187);
+    text-decoration: none;
+}
+.btn_destaque{
+    background-color: rgb(255, 77, 77);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 3px;
+}
