@@ -1,0 +1,8 @@
+.barra_superior{
+    border-bottom: 1px solid black;
+}
+.container{
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+}
