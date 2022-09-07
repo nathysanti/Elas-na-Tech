@@ -93,6 +93,32 @@ nav .btn_destaque{
     width: 65%;
     float: left;
 }
-.direitosReservados{
-    
+.direitos_reservados{
+    background-color: rgb(255, 77, 77);
+    color: white;
+    text-align: center;
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+.direitos_reservados a {
+    color: white;
+}
+.um_terco{
+    width:33% ;
+    float: left;
+    text-decoration: none;
+    padding-top: 30px;  
+    padding-bottom: 50px;  
+}
+.um_terco, .um_terco a{
+    color: rgb(136, 136, 136);
+}
+.um_terco .logo{
+    width: 100%;
+}
+.um_terco img{
+    width: 35px;
+}
+.margem_esquerda{
+    margin-left: 30px;
 }
