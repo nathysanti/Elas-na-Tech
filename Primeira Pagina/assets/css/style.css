@@ -1,3 +1,6 @@
+.clearfix{
+    clear: both;
+}
 body{
     margin: 0px;
     font-family:sans-serif;
@@ -33,12 +36,13 @@ nav .btn_destaque{
     padding: 10px 40px;
     border-radius: 3px;
     text-decoration: none;
+    font-size: 14px;
 }
 
 .sec01{
     height: 640px;
     color: white;
-    background-image: url("../img/Home.png");
+    background-image: url(../img/Home.png);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -63,4 +67,32 @@ nav .btn_destaque{
     max-width: 960px;
     margin-bottom: 50px;
     margin-top: 50px;
+}
+.sec03{
+    background-color: rgb(239, 243, 249);
+    height: 664px;
+    background-image: url(../img/Home2.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.sec03 p{
+    font-size: 54px;
+    line-height: 120%;
+    color: rgb(228, 228, 228);
+    padding-top: 100px;
+    padding-bottom: 40px;
+    
+}
+.largura40{
+    width: 35%;
+    float: left;
+    background-color:  rgb(239, 243, 249);
+    height: 664px;
+}
+.largura60{
+    width: 65%;
+    float: left;
+}
+.direitosReservados{
+    
 }
